@@ -1,1 +1,1 @@
-Hello world!!!  My first day for coding!
+Hello world~ My first day for coding!
